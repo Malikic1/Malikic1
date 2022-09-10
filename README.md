@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Malikic1
+- 👋 Hi, I’m @Malikic1 😊 A developer like you ✌
 - 👀 I’m interested in ... Tech
 - 🌱 I’m currently learning ... Web development
 - 📫 How to reach me ... azeezmalik19@gmail.com or +2348133594310
