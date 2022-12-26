@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Azeez Malik 
 - 😊 A developer like you ✌
-- 👀 I’m interested in ... Tech
-- 🌱 I’m currently learning ... Web development
+- 🌱 Currently learning Web development ...
+     Aspiring full stack developer
 
-- 📫 Reach me through...  
-        azeezmalik19@gmail.com    
-        +2348133594310
+- 📫 Let's grow together
+     Reach me through... azeezmalik19@gmail.com    
+
 
 <!---
 Malikic1/Malikic1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
