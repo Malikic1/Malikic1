@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azeez Malik 
-- 😊 A developer like you ✌
-- 🌱 Currently learning Web development ...
-     Aspiring full stack developer
+- 😊 A developer you'll like his seervice ✌
+- 🌱 Leveling up my stack in Web Development ...
+     Growing full stack developer
 
 - 📫 Let's grow together
      Reach me through... azeezmalik19@gmail.com    
