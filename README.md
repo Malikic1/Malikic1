@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Azeez Malik 
-- 😊 A developer you'll like his service💻
+
 - 🌱 Leveling up my stack in Web Development
+
 - 💡Growing full stack developer
+
 - 📫 Let's grow together
+
 -  📞Reach me through...  azeezmalik19@gmail.com    
 
 
